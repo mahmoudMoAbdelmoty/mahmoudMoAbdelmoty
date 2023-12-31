@@ -3,8 +3,8 @@
 </p>
 
 - 👋 Hi, I’m Mahmoud Abdelmoty.
-- 👀 I’m a data analyst who enjoys documenting her learning journey.
-- 🌱 I’m currently learning data storytelling.
+- 👀 I’m a data analyst who enjoys documenting my learning journey.
+- 🌱 I’m currently learning data storytelling and machine learning.
 - 💞️ I’m open to collaborate on data analysis projects; volunteer or otherwise.
 
 ## Skills and Tools: <div>
